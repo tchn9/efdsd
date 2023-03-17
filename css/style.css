@@ -1,1 +1,79 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
 
+a {
+  font-size: 18px;
+  text-decoration: none; /* Убираем подчёркивание */
+  color: rgb(246, 246, 246);
+}
+a:hover {
+  color: rgb(117, 164, 164);
+  transition: all 0.5s;
+}
+
+body {
+  font-family: Oswald;
+  background-color: #176c8119;
+}
+
+p {
+  margin-bottom: 10px;
+  text-align: justify;
+  border-style: dashed;
+  padding-left: 7px;
+}
+
+.header {
+  position: sticky;
+  top: 0px;
+  background-color: #006078;
+  padding-top: 7px;
+}
+
+.menu {
+  display: flex;
+  padding: 0 100px 0 100px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1px;
+}
+
+.block-text {
+  margin: 0 auto;
+  font-size: 17px;
+  border: 1px;
+  border-radius: 5px;
+  border-style: solid;
+  background-color: rgb(250, 246, 242);
+  width: 75%;
+  min-width: 800px;
+  max-width: 1600px;
+  padding: 5px 10px 5px 10px;
+  margin-bottom: 3px;
+}
+
+h2 {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.list-list {
+  margin-bottom: 10px;
+}
+
+.text-links {
+  color: blue;
+}
+
+.photo-inner {
+  width: 35%;
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+
+.br-list {
+  margin-bottom: 7px;
+}
