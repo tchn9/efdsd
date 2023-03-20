@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg59"
+   width="655.67999"
+   height="527.67999"
+   viewBox="0 0 655.67999 527.67999"
+   sodipodi:docname="logo_veps.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs63" />
+  <sodipodi:namedview
+     id="namedview61"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.76372045"
+     inkscape:cx="618.02719"
+     inkscape:cy="251.40089"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g65" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g65"
+     style="display:inline">
+    <g
+       id="g229">
+      <path
+         style="fill:#000000"
+         d="m 23.875253,201.15537 99.156657,61.43362 1.30036,120.47114 73.83823,-46.48163 -1.18628,-120.81173 -99.502207,-60.78923"
+         id="path237" />
+      <path
+         style="fill:#000000"
+         d="m 125.85949,136.42759 74.12757,-46.814357 98.52179,61.263857 1.41443,120.78556 92.90182,57.1264 1.51397,134.00682 -72.73194,45.84875 -1.37076,-132.88158 -93.51478,-57.43069 -1.0416,-120.39219 z"
+         id="path239" />
+      <path
+         style="fill:#000000"
+         d="m 325.55814,254.1302 72.957,-46.56482 94.46364,58.21375 1.07054,132.94932 -73.49103,46.52503 -1.134,-132.93772 z"
+         id="path241" />
+      <path
+         style="fill:#000000"
+         d="M 226.75411,69.797387 300.1101,23.217026 589.56483,201.77344 590.15856,335.34882 517.53554,381.81598 516.2046,248.43266 Z"
+         id="path243" />
+    </g>
+  </g>
+</svg>
